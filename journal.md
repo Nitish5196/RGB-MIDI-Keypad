@@ -52,3 +52,20 @@ Im rearranging the components to ensure it looks good , its functional and tryin
 So ye tht is the final version , i still need to route it and add the 3d part
 
 **Total Time Spent :  2hrs**
+
+## Oct 25 2026-12:00pm  <3d and routing >
+I downloaded the 3d step for all the components from GrabCAD and added them , im having trouble aligning the PTA2043 <img width="657" height="461" alt="image" src="https://github.com/user-attachments/assets/ab267b6b-e943-4bf7-b74c-03f3624e2853" />
+
+Now i added the 3d step file for it but idk how to make the copper exposed for keypad
+
+<img width="660" height="588" alt="image" src="https://github.com/user-attachments/assets/2e4a194a-bfe1-4636-9180-709e11950f6e" />
+
+Somehow got it to work , this took too long tht it shd just to align the PTA2043 and remove the mask i took 1.5hrs 💀 , so imma route everything as fast as possible .
+### Since the reviewer is gonna think no one is dumb enough to take this long to do this imma start lapsing everything from now 
+ ##BTW THE PCB IS DONE 
+ <img width="587" height="519" alt="image" src="https://github.com/user-attachments/assets/fc77867f-f857-4d46-a1e0-6dd3a6dad2e7" />
+<img width="646" height="567" alt="image" src="https://github.com/user-attachments/assets/ab23bccb-90fc-461e-8358-3c104e4f0ceb" />
+
+I used 161 vias and the PCB still looks messy af
+
+Here is the link - https://lapse.hackclub.com/timelapse/-awHgWNXWeuk
