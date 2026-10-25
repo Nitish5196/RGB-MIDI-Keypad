@@ -62,10 +62,13 @@ Now i added the 3d step file for it but idk how to make the copper exposed for k
 
 Somehow got it to work , this took too long tht it shd just to align the PTA2043 and remove the mask i took 1.5hrs 💀 , so imma route everything as fast as possible .
 ### Since the reviewer is gonna think no one is dumb enough to take this long to do this imma start lapsing everything from now 
- ##BTW THE PCB IS DONE 
+
+ ## BTW THE PCB IS DONE 
  <img width="587" height="519" alt="image" src="https://github.com/user-attachments/assets/fc77867f-f857-4d46-a1e0-6dd3a6dad2e7" />
 <img width="646" height="567" alt="image" src="https://github.com/user-attachments/assets/ab23bccb-90fc-461e-8358-3c104e4f0ceb" />
 
 I used 161 vias and the PCB still looks messy af
 
 Here is the link - https://lapse.hackclub.com/timelapse/-awHgWNXWeuk
+
+**Total Time:2.85hrs**
