@@ -1,9 +1,9 @@
 ---
 title: "RGB MIDI Keypad"
 github: "[https://github.com/Nitish5196/Pocket-watch](https://github.com/Nitish5196/RGB-MIDI-Keypad)"
-description: ""
+description: "A MIDI Keyboard with RGB led under each key and it has a rotary encoder , a display and 2 mechanical keys"
 created_at: "2026-10-23"
-total_time: "TBD"
+total_time: "15"
 ---
 ## Oct 23 2026 - 5:20am - Oct 24 2026 12:10am: <schematic and PCB>
 
@@ -69,6 +69,15 @@ Somehow got it to work , this took too long tht it shd just to align the PTA2043
 
 I used 161 vias and the PCB still looks messy af
 
-Here is the link - https://lapse.hackclub.com/timelapse/-awHgWNXWeuk
+Here is the link - https://lapse.hackclub.com/timelapse/-awHgWNXWeuk - **1.5hrs** 
 
 **Total Time:2.85hrs**
+
+## Oct 25 2026 
+added art to the PCB , exported gerber files and added BOM as csv and in readme tabular form . 
+https://lapse.hackclub.com/timelapse/6ve3WGSaY_u2
+https://lapse.hackclub.com/timelapse/IfFCZs6eKyKa
+**Total time:1.12**
+
+
+
