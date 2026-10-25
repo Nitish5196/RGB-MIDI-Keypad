@@ -30,10 +30,25 @@ today i added the footprint and updated the PCB <img width="754" height="454" al
 <img width="778" height="570" alt="image" src="https://github.com/user-attachments/assets/71d0eecc-ee84-4047-bb47-ed2e190495f1" />
 
 Made my own footprint for they keys(ik it looks basic but i had 25 keys and i dont have time to customize all of them)
+
 <img width="680" height="355" alt="image" src="https://github.com/user-attachments/assets/effc2bde-fedf-47fa-b184-daa53639517e" />
 <img width="739" height="549" alt="image" src="https://github.com/user-attachments/assets/d81962da-d829-4a56-9b4d-3f9d0f79872e" />
 
 Added the footprint
 <img width="498" height="506" alt="image" src="https://github.com/user-attachments/assets/58cd2e40-d03f-4ec0-af28-df682c8df497" />
+
 Now i need to arrange the components , add 3d model it and check if it fits and route everything 
+
 **Total Time Spent :  3.5hrs**
+
+
+## Oct 25 2026-9:12am  <gonna finish pcb>
+<img width="702" height="491" alt="image" src="https://github.com/user-attachments/assets/bbd400f5-01fd-41b9-80ef-438d9e517f7a" />
+<img width="632" height="429" alt="image" src="https://github.com/user-attachments/assets/ed2e2d4d-af19-4f57-bb23-a77cf6b959cf" />
+<img width="473" height="342" alt="image" src="https://github.com/user-attachments/assets/a4ff6427-9a9f-4efe-97d3-450b2f47594f" />
+<img width="543" height="442" alt="image" src="https://github.com/user-attachments/assets/8f21fd55-90fc-4754-8c4a-e61b3af4db1a" />
+
+Im rearranging the components to ensure it looks good , its functional and tryin to keep the pcb as small as possible
+So ye tht is the final version , i still need to route it and add the 3d part
+
+**Total Time Spent :  2hrs**
