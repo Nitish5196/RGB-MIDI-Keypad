@@ -1,3 +1,19 @@
+# RGB MIDI Keypad 
+A 25 key capacitive touch MIDI keypad PCB with :
+- Seeed Studio XIAO RP2040 : To process everything 
+- MPR121 capacitive touch sensors : to connect the 25 keys (the rp2040 doest not have enough gpio pins for 25 keys so this is needed)
+- capacitive keys - no physical keys , just touch the copper pads to make music
+- RGB LEDs - LED under each key which lights up when you touch a copper pad
+- Octave Control Switch - Click the 2 mechanical keys to switch between up and down octaves
+- Rotary Encoder - to control the volume and much more (tbh its there cause its fun to twist this and act like a DJ)
+- Slide Potentiometers - to control filters , effects and anything u want
+- A display - to display the settings and cool animations
+- A power ON LED and a LED which blinks with you press any key except the copper pads
+### HERE IS THE IMAGE OF THE PCB 
+<img width="646" height="567" alt="image" src="https://github.com/user-attachments/assets/a0aa0ff2-8cec-4767-a94b-2a5f65dd928e" />
+<img width="587" height="519" alt="image" src="https://github.com/user-attachments/assets/872c73b0-a43b-4677-bf0a-a969b7a0c57f" />
+<img width="813" height="547" alt="image" src="https://github.com/user-attachments/assets/e778bbda-52f9-469a-9e63-7270643a7bb0" />
+
 ## BOM:
 | Components | Qty | Unit Price | Total Price | Link |
 | -------- | -------- | -------- |  -------- | -------- | 
